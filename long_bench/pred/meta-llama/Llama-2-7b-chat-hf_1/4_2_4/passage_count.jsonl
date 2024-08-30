@@ -1,0 +1,200 @@
+{"pred": " There are 4 unique paragraphs.\n\n1, 23, 38, 40", "answers": ["8"], "all_classes": null, "length": 11221}
+{"pred": " There are 3 unique paragraphs.", "answers": ["11"], "all_classes": null, "length": 9921}
+{"pred": " There are 3 unique paragraphs.", "answers": ["13"], "all_classes": null, "length": 6578}
+{"pred": " There are 4 unique paragraphs.\n\n1, 46, 47, 48", "answers": ["44"], "all_classes": null, "length": 16346}
+{"pred": " There are 3 unique paragraphs.", "answers": ["2"], "all_classes": null, "length": 22099}
+{"pred": " There are 3 unique paragraphs.", "answers": ["7"], "all_classes": null, "length": 8383}
+{"pred": " There are 4 unique paragraphs.", "answers": ["7"], "all_classes": null, "length": 4974}
+{"pred": " There are 3 unique paragraphs.", "answers": ["45"], "all_classes": null, "length": 13970}
+{"pred": " There are 3 unique paragraphs.", "answers": ["4"], "all_classes": null, "length": 14086}
+{"pred": " There are 3 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 41", "answers": ["31"], "all_classes": null, "length": 12357}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 3\n3. Paragraph 44", "answers": ["4"], "all_classes": null, "length": 15623}
+{"pred": " There are 3 unique paragraphs after removing duplicates.", "answers": ["16"], "all_classes": null, "length": 11059}
+{"pred": " There are 5 unique paragraphs.", "answers": ["5"], "all_classes": null, "length": 3991}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 48", "answers": ["44"], "all_classes": null, "length": 17077}
+{"pred": " There are 4 unique paragraphs.", "answers": ["19"], "all_classes": null, "length": 11340}
+{"pred": " There are 3 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 34\n3. Paragraph 3", "answers": ["36"], "all_classes": null, "length": 10543}
+{"pred": " There are 4 unique paragraphs.", "answers": ["24"], "all_classes": null, "length": 8141}
+{"pred": " There are 3 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 28\n3. Paragraph 3", "answers": ["12"], "all_classes": null, "length": 8534}
+{"pred": " There are 3 unique paragraphs.", "answers": ["23"], "all_classes": null, "length": 13749}
+{"pred": " There are 4 unique paragraphs.", "answers": ["14"], "all_classes": null, "length": 5649}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 45", "answers": ["18"], "all_classes": null, "length": 13512}
+{"pred": " There are 4 unique paragraphs.", "answers": ["29"], "all_classes": null, "length": 14584}
+{"pred": " There are 4 unique paragraphs.", "answers": ["22"], "all_classes": null, "length": 12667}
+{"pred": " There are 3 unique paragraphs.", "answers": ["6"], "all_classes": null, "length": 6510}
+{"pred": " There are 4 unique paragraphs.", "answers": ["8"], "all_classes": null, "length": 6283}
+{"pred": " There are 5 unique paragraphs in the provided text.", "answers": ["9"], "all_classes": null, "length": 13036}
+{"pred": " There are 4 unique paragraphs.", "answers": ["26"], "all_classes": null, "length": 5249}
+{"pred": " There are 4 unique paragraphs.", "answers": ["26"], "all_classes": null, "length": 17369}
+{"pred": " There are 3 unique paragraphs.", "answers": ["28"], "all_classes": null, "length": 10898}
+{"pred": " There are 4 unique paragraphs.", "answers": ["43"], "all_classes": null, "length": 13330}
+{"pred": " There are 3 unique paragraphs.", "answers": ["34"], "all_classes": null, "length": 13153}
+{"pred": " There are 4 unique paragraphs.", "answers": ["19"], "all_classes": null, "length": 9732}
+{"pred": " There are 4 unique paragraphs.", "answers": ["9"], "all_classes": null, "length": 9246}
+{"pred": " There are 4 unique paragraphs.", "answers": ["40"], "all_classes": null, "length": 11663}
+{"pred": " There are 4 unique paragraphs after removing duplicates.\n\n1, 2, 47, 48, 49", "answers": ["14"], "all_classes": null, "length": 17590}
+{"pred": " There are 10 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Par", "answers": ["26"], "all_classes": null, "length": 9718}
+{"pred": " There are 3 unique paragraphs after removing duplicates.\n\n1, 37, 38, 39, 40,", "answers": ["25"], "all_classes": null, "length": 13084}
+{"pred": " There are 3 unique paragraphs.", "answers": ["13"], "all_classes": null, "length": 18601}
+{"pred": " There are 3 unique paragraphs.", "answers": ["35"], "all_classes": null, "length": 12177}
+{"pred": " There are 4 unique paragraphs.\n\n1\n39\n40", "answers": ["20"], "all_classes": null, "length": 11563}
+{"pred": " There are 4 unique paragraphs.", "answers": ["39"], "all_classes": null, "length": 16004}
+{"pred": " There are 3 unique paragraphs.", "answers": ["7"], "all_classes": null, "length": 13534}
+{"pred": " There are 3 unique paragraphs.\n\n1\n35\n36\n37", "answers": ["12"], "all_classes": null, "length": 10580}
+{"pred": " There are 4 unique paragraphs.", "answers": ["16"], "all_classes": null, "length": 10333}
+{"pred": " There are 4 unique paragraphs.", "answers": ["30"], "all_classes": null, "length": 14264}
+{"pred": " There are 4 unique paragraphs in the provided text.", "answers": ["4"], "all_classes": null, "length": 11680}
+{"pred": " There are 3 unique paragraphs.", "answers": ["21"], "all_classes": null, "length": 7461}
+{"pred": " There are 3 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 34\n3. Paragraph 3", "answers": ["5"], "all_classes": null, "length": 12151}
+{"pred": " There are 9 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph", "answers": ["10"], "all_classes": null, "length": 6481}
+{"pred": " There are 4 unique paragraphs.", "answers": ["6"], "all_classes": null, "length": 9456}
+{"pred": " There are 4 unique paragraphs.", "answers": ["31"], "all_classes": null, "length": 8395}
+{"pred": " There are 4 unique paragraphs.", "answers": ["13"], "all_classes": null, "length": 4822}
+{"pred": " There are 3 unique paragraphs.", "answers": ["9"], "all_classes": null, "length": 11201}
+{"pred": " There are 3 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 32", "answers": ["11"], "all_classes": null, "length": 11740}
+{"pred": " There are 3 unique paragraphs.", "answers": ["18"], "all_classes": null, "length": 9707}
+{"pred": " There are 3 unique paragraphs.", "answers": ["7"], "all_classes": null, "length": 7447}
+{"pred": " There are 4 unique paragraphs.", "answers": ["5"], "all_classes": null, "length": 6927}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 33", "answers": ["5"], "all_classes": null, "length": 13709}
+{"pred": " There are 4 unique paragraphs.", "answers": ["14"], "all_classes": null, "length": 16551}
+{"pred": " There are 4 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph", "answers": ["40"], "all_classes": null, "length": 15237}
+{"pred": " There are 4 unique paragraphs.", "answers": ["18"], "all_classes": null, "length": 13155}
+{"pred": " After removing duplicates, there are 4 unique paragraphs.\n\n1, 36, 37, 38, 39", "answers": ["2"], "all_classes": null, "length": 13433}
+{"pred": " There are 3 unique paragraphs.", "answers": ["20"], "all_classes": null, "length": 13372}
+{"pred": " There are 3 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 37\n3. Par", "answers": ["30"], "all_classes": null, "length": 12589}
+{"pred": " There are 5 unique paragraphs.", "answers": ["12"], "all_classes": null, "length": 6751}
+{"pred": " There are 4 unique paragraphs.", "answers": ["43"], "all_classes": null, "length": 15519}
+{"pred": " There are 4 unique paragraphs.", "answers": ["10"], "all_classes": null, "length": 10373}
+{"pred": " There are 3 unique paragraphs.", "answers": ["11"], "all_classes": null, "length": 6690}
+{"pred": " There are 3 unique paragraphs.", "answers": ["20"], "all_classes": null, "length": 8138}
+{"pred": " There are 4 unique paragraphs.", "answers": ["37"], "all_classes": null, "length": 9910}
+{"pred": " There are 3 unique paragraphs.", "answers": ["15"], "all_classes": null, "length": 9802}
+{"pred": " There are 4 unique paragraphs.", "answers": ["17"], "all_classes": null, "length": 10817}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 30", "answers": ["5"], "all_classes": null, "length": 10977}
+{"pred": " There are 4 unique paragraphs.", "answers": ["9"], "all_classes": null, "length": 8150}
+{"pred": " There are 4 unique paragraphs.", "answers": ["21"], "all_classes": null, "length": 7300}
+{"pred": " There are 4 unique paragraphs.", "answers": ["26"], "all_classes": null, "length": 14083}
+{"pred": " There are 4 unique paragraphs.", "answers": ["19"], "all_classes": null, "length": 18136}
+{"pred": " There are 4 unique paragraphs.", "answers": ["9"], "all_classes": null, "length": 5562}
+{"pred": " There are 4 unique paragraphs.", "answers": ["10"], "all_classes": null, "length": 5442}
+{"pred": " There are 4 unique paragraphs in the provided text. Therefore, the answer is: 4.", "answers": ["17"], "all_classes": null, "length": 12213}
+{"pred": " There are 3 unique paragraphs after removing duplicates.\n\n1, 36, 37, 38", "answers": ["5"], "all_classes": null, "length": 13084}
+{"pred": " There are 3 unique paragraphs.", "answers": ["13"], "all_classes": null, "length": 12754}
+{"pred": " There are 5 unique paragraphs in the provided text.", "answers": ["5"], "all_classes": null, "length": 7079}
+{"pred": " There are 3 unique paragraphs.", "answers": ["19"], "all_classes": null, "length": 8018}
+{"pred": " There are 5 unique paragraphs.", "answers": ["13"], "all_classes": null, "length": 9086}
+{"pred": " There are 34 unique paragraphs in the provided text.", "answers": ["19"], "all_classes": null, "length": 11301}
+{"pred": " There are 3 unique paragraphs after removing duplicates.", "answers": ["12"], "all_classes": null, "length": 8771}
+{"pred": " There are 3 unique paragraphs.", "answers": ["15"], "all_classes": null, "length": 6573}
+{"pred": " There are 4 unique paragraphs.", "answers": ["7"], "all_classes": null, "length": 5522}
+{"pred": " There are 5 unique paragraphs in the provided text.", "answers": ["16"], "all_classes": null, "length": 10898}
+{"pred": " There are 4 unique paragraphs.", "answers": ["5"], "all_classes": null, "length": 8866}
+{"pred": " There are 3 unique paragraphs.", "answers": ["7"], "all_classes": null, "length": 11143}
+{"pred": " There are 4 unique paragraphs after removing duplicates.\n\n1, 4, 45, 47, 48", "answers": ["3"], "all_classes": null, "length": 11516}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 3\n", "answers": ["27"], "all_classes": null, "length": 11744}
+{"pred": " There are 3 unique paragraphs.", "answers": ["21"], "all_classes": null, "length": 14392}
+{"pred": " There are 4 unique paragraphs.", "answers": ["8"], "all_classes": null, "length": 13321}
+{"pred": " There are 3 unique paragraphs.", "answers": ["26"], "all_classes": null, "length": 11086}
+{"pred": " There are 4 unique paragraphs.", "answers": ["14"], "all_classes": null, "length": 9267}
+{"pred": " There are 4 unique paragraphs.", "answers": ["14"], "all_classes": null, "length": 6650}
+{"pred": " There are 5 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 3\n", "answers": ["13"], "all_classes": null, "length": 3554}
+{"pred": " There are 3 unique paragraphs.\n\n1, 20, 40, 41, 42, 43", "answers": ["10"], "all_classes": null, "length": 13846}
+{"pred": " There are 4 unique paragraphs.\n\n1, 22, 23, and 25 are the unique paragraph numbers.", "answers": ["11"], "all_classes": null, "length": 7488}
+{"pred": " There are 4 unique paragraphs.\n\n1, 22, 32, 42", "answers": ["38"], "all_classes": null, "length": 13904}
+{"pred": " There are 4 unique paragraphs.", "answers": ["11"], "all_classes": null, "length": 6245}
+{"pred": " There are 3 unique paragraphs after removing duplicates.\n\n1. Roma\n2. Kitselas\n3. Sweeney Todd", "answers": ["19"], "all_classes": null, "length": 10261}
+{"pred": " There are 3 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 44\n3. Paragraph 4", "answers": ["5"], "all_classes": null, "length": 18130}
+{"pred": " There are 4 unique paragraphs.", "answers": ["23"], "all_classes": null, "length": 12919}
+{"pred": " There are 4 unique paragraphs.", "answers": ["21"], "all_classes": null, "length": 16375}
+{"pred": " There are 4 unique paragraphs.", "answers": ["31"], "all_classes": null, "length": 14767}
+{"pred": " There are 4 unique paragraphs.", "answers": ["4"], "all_classes": null, "length": 9363}
+{"pred": " There are 4 unique paragraphs.", "answers": ["24"], "all_classes": null, "length": 9779}
+{"pred": " There are 4 unique paragraphs.\n\n1, 2, 47, 48, 49", "answers": ["46"], "all_classes": null, "length": 14598}
+{"pred": " There are 3 unique paragraphs after removing duplicates.", "answers": ["21"], "all_classes": null, "length": 14280}
+{"pred": " There are 3 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 26\n3. Paragraph 2", "answers": ["20"], "all_classes": null, "length": 10288}
+{"pred": " There are 3 unique paragraphs.", "answers": ["11"], "all_classes": null, "length": 5651}
+{"pred": " There are 3 unique paragraphs.", "answers": ["30"], "all_classes": null, "length": 11494}
+{"pred": " There are 4 unique paragraphs.", "answers": ["2"], "all_classes": null, "length": 3967}
+{"pred": " There are 4 unique paragraphs.", "answers": ["7"], "all_classes": null, "length": 8047}
+{"pred": " There are 5 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 3\n", "answers": ["14"], "all_classes": null, "length": 12816}
+{"pred": " There are 4 unique paragraphs.", "answers": ["29"], "all_classes": null, "length": 12602}
+{"pred": " There are 4 unique paragraphs.", "answers": ["9"], "all_classes": null, "length": 6561}
+{"pred": " There are 4 unique paragraphs.", "answers": ["41"], "all_classes": null, "length": 13506}
+{"pred": " There are 4 unique paragraphs.", "answers": ["25"], "all_classes": null, "length": 14899}
+{"pred": " There are 4 unique paragraphs.\n\n1, 38, 39, 40, 41", "answers": ["39"], "all_classes": null, "length": 12547}
+{"pred": " There are 3 unique paragraphs after removing duplicates.", "answers": ["18"], "all_classes": null, "length": 10765}
+{"pred": " There are 4 unique paragraphs after removing duplicates.\n\n1, 2, 21, 22, 23, ", "answers": ["7"], "all_classes": null, "length": 6447}
+{"pred": " There are 3 unique paragraphs.", "answers": ["30"], "all_classes": null, "length": 18934}
+{"pred": " There are 3 unique paragraphs.", "answers": ["9"], "all_classes": null, "length": 6231}
+{"pred": " There are 4 unique paragraphs.", "answers": ["28"], "all_classes": null, "length": 10433}
+{"pred": " There are 3 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 33\n3. Par", "answers": ["37"], "all_classes": null, "length": 12074}
+{"pred": " There are 4 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 39\n3. Par", "answers": ["5"], "all_classes": null, "length": 12913}
+{"pred": " There are 4 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 38\n3. Par", "answers": ["33"], "all_classes": null, "length": 11704}
+{"pred": " There are 4 unique paragraphs.", "answers": ["14"], "all_classes": null, "length": 6751}
+{"pred": " There are 4 unique paragraphs.", "answers": ["21"], "all_classes": null, "length": 12119}
+{"pred": " There are 4 unique paragraphs in the provided text.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Par", "answers": ["16"], "all_classes": null, "length": 12140}
+{"pred": " There are 4 unique paragraphs.", "answers": ["31"], "all_classes": null, "length": 16806}
+{"pred": " There are 3 unique paragraphs after removing duplicates.", "answers": ["19"], "all_classes": null, "length": 12672}
+{"pred": " There are 4 unique paragraphs.", "answers": ["12"], "all_classes": null, "length": 4960}
+{"pred": " There are 5 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 3\n3. Paragraph", "answers": ["3"], "all_classes": null, "length": 6404}
+{"pred": " There are 4 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph", "answers": ["32"], "all_classes": null, "length": 14244}
+{"pred": " There are 3 unique paragraphs after removing duplicates.", "answers": ["44"], "all_classes": null, "length": 12279}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 44\n3. Paragraph 4", "answers": ["23"], "all_classes": null, "length": 13851}
+{"pred": " There are 4 unique paragraphs.", "answers": ["17"], "all_classes": null, "length": 9334}
+{"pred": " There are 3 unique paragraphs after removing duplicates.", "answers": ["39"], "all_classes": null, "length": 14435}
+{"pred": " There are 4 unique paragraphs.", "answers": ["23"], "all_classes": null, "length": 12927}
+{"pred": " There are 4 unique paragraphs.", "answers": ["11"], "all_classes": null, "length": 10543}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 46\n3. Paragraph 4", "answers": ["4"], "all_classes": null, "length": 17186}
+{"pred": " There are 4 unique paragraphs.", "answers": ["26"], "all_classes": null, "length": 15302}
+{"pred": " There are 3 unique paragraphs.", "answers": ["16"], "all_classes": null, "length": 6374}
+{"pred": " There are 4 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 30\n3. Par", "answers": ["16"], "all_classes": null, "length": 10190}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 3\n", "answers": ["17"], "all_classes": null, "length": 5700}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 44", "answers": ["27"], "all_classes": null, "length": 15210}
+{"pred": " There are 4 unique paragraphs.", "answers": ["7"], "all_classes": null, "length": 4858}
+{"pred": " There are 4 unique paragraphs.", "answers": ["14"], "all_classes": null, "length": 9469}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 49", "answers": ["31"], "all_classes": null, "length": 15454}
+{"pred": " There are 4 unique paragraphs.", "answers": ["3"], "all_classes": null, "length": 13841}
+{"pred": " There are 3 unique paragraphs.", "answers": ["3"], "all_classes": null, "length": 9325}
+{"pred": " There are 6 unique paragraphs.", "answers": ["3"], "all_classes": null, "length": 6771}
+{"pred": " There are 4 unique paragraphs.\n\n1, 45, 46, 48, 49", "answers": ["9"], "all_classes": null, "length": 11684}
+{"pred": " There are 3 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 37\n3. Par", "answers": ["3"], "all_classes": null, "length": 13730}
+{"pred": " There are 3 unique paragraphs.", "answers": ["17"], "all_classes": null, "length": 8501}
+{"pred": " There are 3 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 40", "answers": ["22"], "all_classes": null, "length": 13035}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 25\n3. Paragraph 2", "answers": ["16"], "all_classes": null, "length": 9281}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 5\n", "answers": ["17"], "all_classes": null, "length": 7400}
+{"pred": " There are 3 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 32\n3. Par", "answers": ["4"], "all_classes": null, "length": 14283}
+{"pred": " There are 3 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 31\n3. Par", "answers": ["7"], "all_classes": null, "length": 12616}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 37\n3. Paragraph 3", "answers": ["38"], "all_classes": null, "length": 12285}
+{"pred": " There are 3 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph", "answers": ["17"], "all_classes": null, "length": 14999}
+{"pred": " There are 4 unique paragraphs after removing duplicates.\n\n1, 33, 34, and 35.", "answers": ["15"], "all_classes": null, "length": 13557}
+{"pred": " There are 4 unique paragraphs.", "answers": ["34"], "all_classes": null, "length": 15684}
+{"pred": " There are 4 unique paragraphs.", "answers": ["5"], "all_classes": null, "length": 12236}
+{"pred": " There are 3 unique paragraphs.", "answers": ["22"], "all_classes": null, "length": 16104}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 31", "answers": ["30"], "all_classes": null, "length": 9118}
+{"pred": " There are 4 unique paragraphs.", "answers": ["9"], "all_classes": null, "length": 17635}
+{"pred": " After removing duplicates, there are 5 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Par", "answers": ["6"], "all_classes": null, "length": 8470}
+{"pred": " There are 4 unique paragraphs in the provided text.", "answers": ["7"], "all_classes": null, "length": 5326}
+{"pred": " There are 4 unique paragraphs.\n\n1, 2, 34, 35", "answers": ["31"], "all_classes": null, "length": 12687}
+{"pred": " There are 5 unique paragraphs in the provided text.", "answers": ["5"], "all_classes": null, "length": 5518}
+{"pred": " There are 3 unique paragraphs.", "answers": ["35"], "all_classes": null, "length": 15203}
+{"pred": " There are 3 unique paragraphs after removing duplicates.\n\n1. Paragraph 1\n2. Paragraph 30\n3. Par", "answers": ["24"], "all_classes": null, "length": 7955}
+{"pred": " There are 3 unique paragraphs after removing duplicates.\n\n1, 27, 37, 38", "answers": ["37"], "all_classes": null, "length": 12718}
+{"pred": " There are 3 unique paragraphs after removing duplicates.\n\n1, 43, 44, 45", "answers": ["11"], "all_classes": null, "length": 12939}
+{"pred": " There are 4 unique paragraphs.\n\n1, 2, 36, 37, 38, 39,", "answers": ["28"], "all_classes": null, "length": 12397}
+{"pred": " After removing duplicates, there are 14 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3.", "answers": ["5"], "all_classes": null, "length": 11938}
+{"pred": " There are 3 unique paragraphs after removing duplicates.", "answers": ["4"], "all_classes": null, "length": 8543}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 26", "answers": ["11"], "all_classes": null, "length": 8590}
+{"pred": " There are 4 unique paragraphs.", "answers": ["16"], "all_classes": null, "length": 9543}
+{"pred": " There are 4 unique paragraphs in the provided text.\n\n1, 2, 34, 40, 41,", "answers": ["26"], "all_classes": null, "length": 13429}
+{"pred": " There are 5 unique paragraphs.", "answers": ["10"], "all_classes": null, "length": 9585}
+{"pred": " There are 4 unique paragraphs.\n\n1, 2, 34, 43, 44, 45,", "answers": ["42"], "all_classes": null, "length": 15870}
+{"pred": " There are 4 unique paragraphs.", "answers": ["26"], "all_classes": null, "length": 12313}
+{"pred": " There are 4 unique paragraphs.", "answers": ["21"], "all_classes": null, "length": 6986}
+{"pred": " There are 5 unique paragraphs in the provided text.", "answers": ["19"], "all_classes": null, "length": 9484}
+{"pred": " There are 4 unique paragraphs.", "answers": ["26"], "all_classes": null, "length": 15479}
+{"pred": " After removing duplicates, there are 3 unique paragraphs.\n\nThe answer is: 3", "answers": ["5"], "all_classes": null, "length": 9960}
+{"pred": " There are 4 unique paragraphs.", "answers": ["20"], "all_classes": null, "length": 14973}
+{"pred": " There are 4 unique paragraphs.\n\n1. Paragraph 1\n2. Paragraph 2\n3. Paragraph 3\n", "answers": ["15"], "all_classes": null, "length": 13734}
+{"pred": " There are 3 unique paragraphs.", "answers": ["10"], "all_classes": null, "length": 6073}
+{"pred": " There are 4 unique paragraphs after removing duplicates.\n\n1, 2, 34, 42, 43, ", "answers": ["17"], "all_classes": null, "length": 15984}
+{"pred": " There are 4 unique paragraphs.", "answers": ["28"], "all_classes": null, "length": 6972}
